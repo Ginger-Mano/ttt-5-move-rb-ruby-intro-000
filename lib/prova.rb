@@ -2,4 +2,4 @@ def say_hello(name)
   "Hello, #{name}"
 end
 
-say_hello("Matteo")
+return say_hello("Matteo")
